@@ -1,1 +1,3 @@
 # time-off-tracker
+
+This project analyzes synthetic time-off data to simulate HR insights around workforce well-being. Visualizations show which departments take the most time off, when employees are more likely to be absent, and the types of elave commonly used. The goal is to support better planning and improve HR visibility into time-off trends that might indicate burnout, seasonality, or policy effectiveness.
